@@ -4,6 +4,6 @@
 <p align="left"> <a href="https://twitter.com/mintyinstance" target="blank"><img src="https://img.shields.io/twitter/follow/mintyinstance?logo=twitter&style=for-the-badge" alt="mintyinstance" /></a> </p>
 
 - 📫 You can reach me at **hello@mintydev.xyz**
-- 🌟 My portfolio is available <a href="https://mintydev.xyz" target="blank">right here</a>
+- 🌟 Comission me on my <a href="http://discord.elarys.net" target="blank">Discord Server</a> !
 
 ![MINTY's GitHub stats](https://github-readme-stats.vercel.app/api?username=MINTYdv&show_icons=true)
