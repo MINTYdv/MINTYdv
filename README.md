@@ -8,4 +8,4 @@
 - 📫 You can reach me at **hello@mintydev.xyz**
 - 🌟 My portfolio is available <a href="https://mintydev.xyz" target="blank">right here</a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![MINTY's GitHub stats](https://github-readme-stats.vercel.app/api?username=MINTYdv&show_icons=true)
