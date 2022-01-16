@@ -12,12 +12,10 @@
 <a href=""><img src="https://img.shields.io/badge/C%23_Language-informational" alt="C# Language"></a>
 <a href=""><img src="https://img.shields.io/badge/JavaScript_Language-informational" alt="JavaScript Language"></a>
 <br>
-💾 <a href="https://elarys.net"><img src="https://img.shields.io/badge/Minecraft-Spigot_plugins-brightgreen?logo=java" alt="Minecraft - Spigot plugins"></a>
+💾 <a href="https://mintfactory.xyz/discord"><img src="https://img.shields.io/badge/Minecraft-Spigot_plugins-brightgreen?logo=java" alt="Minecraft - Spigot plugins"></a>
 <a href="https://elarys.net"><img src="https://img.shields.io/badge/Minecraft-BungeeCord_plugins-brightgreen?logo=java" alt="Minecraft - BungeeCord plugins"></a>
 <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-Game_Development_(C%23)-brightgreen?logo=unity" alt="Unity - Game Development (C#)"></a>
 
 <h1 align="left">🗣 Social Contact</h1>
 
-<a href="https://twitter.com/mintyinstance" target="blank"><img src="https://img.shields.io/twitter/follow/mintyinstance?logo=twitter&style=for-the-badge" alt="mintyinstance" /></a>
 <a href="https://twitter.com/offminty" target="blank"><img src="https://img.shields.io/twitter/follow/offminty?logo=twitter&style=for-the-badge" alt="offmminty" /></a>
-<a href="https://twitter.com/elarysnet" target="blank"><img src="https://img.shields.io/twitter/follow/elarys?logo=twitter&style=for-the-badge" alt="elarys"/></a>
