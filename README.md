@@ -2,10 +2,8 @@
 
 - 👋 I'm a young Java & C# Developer living in France and learning new technologies
 - 🧠 I'm coding in Java, JavaScript, C# and a little bit of HTML & CSS
-- 📫 You can reach me for any requests at **hello@mintydev.xyz**
-- 🎮 I'm a huge passionate of gaming & discovering new technologies (such as AR recently)
-- 🌟 You can comission me on my <a href="http://elarys.net/discord" target="blank">Discord Server</a> !
-- 👨‍💼 I'm a little of an entrepreneur myself, i started working on multiple projects giving me passive or native income such as my Spigot & BungeeCord plugins development agency <a href="https://elarys.net">Elarys</a>
+- 📫 You can reach me for any requests at **mintyhx@proton.me**
+- 🎮 I'm a huge passionate of gaming, discovering new technologies & crypto-currencies world (and NFT's recently)
 
 <h1 align="left">🧠 Skills</h1>
 💻 <a href=""><img src="https://img.shields.io/badge/Java_Language-informational" alt="Java Language"></a>
