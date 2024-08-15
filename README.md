@@ -2,9 +2,10 @@
 
 <b>Hello there! I'm MINTY</b>, a passionate and driven Freelance developer with a strong focus on Java and C#. As a tech enthusiast, I'm constantly on the lookout for cutting-edge technologies to explore and integrate into my projects. My journey in the world of software development has been an exhilarating quest for knowledge and expertise, and I'm always eager to expand my skillset.
 
-With a keen eye for detail and a penchant for problem-solving, I thrive on tackling complex challenges and finding innovative solutions. Building efficient, scalable, and robust software solutions is not just a profession for me; it's a personal pursuit of excellence. I always strive to maintain a balance between creativity and practicality in my work. My goal is to create software that not only meets the technical requirements but also enhances the user experience.
+With a keen eye for detail and a penchant for problem-solving, I thrive on tackling complex challenges and finding innovative solutions. I always strive to maintain a balance between creativity and practicality in my work. My goal is to create software that not only meets the technical requirements but also enhances the user experience.
 
-If you have a challenging project in mind or want to discuss the latest tech trends, feel free to reach out. I'm open to exciting opportunities and always excited to embark on new ventures in the ever-evolving world of software development. Let's code something extraordinary together! 💻🚀
+If you have a challenging project in mind or want to discuss the latest tech trends, feel free to reach out.
+Let's code something extraordinary together! 💻🚀
 
 <h2 align="left">My working environment 👨‍🏭</h2>
 <p>
